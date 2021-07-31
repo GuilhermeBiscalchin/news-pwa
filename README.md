@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# PROJETO EM PWA - NOTICIAS - FEITO PARA CONCLUSÃO DIGITAL INNOVATION ONE
+
+Projeto em para baixar em PWA, com link em um API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
